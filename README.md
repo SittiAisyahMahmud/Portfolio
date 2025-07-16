@@ -86,5 +86,6 @@ A video of the booth and the business in action:
 ## 📞 Contact
 
 Interested in collaborating or hiring? Reach me via email or LinkedIn.  
-Thanks for visiting this repository!
+
+Thanks for visiting this portfolio!
 
