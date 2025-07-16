@@ -26,6 +26,13 @@ Welcome to my food business and culinary experience showcase! This repository pr
   <img src="images/PREPARING ORDER.jpeg" width="300"/>
 </p>
 
+<p align="center">
+  <img src="images/AYAM GEPREK ORDER_.jpeg" width="300"/>
+  <img src="images/AYAM GEPREK ORDER.jpeg" width="300"/>
+  <img src="images/AYAM BAKAR ORDER.jpeg" width="300"/>
+  <img src="images/AYAM BAKAR ORDER__.jpeg" width="300"/>
+</p>
+
 Fried chicken is served with sambal (spicy sauce) and steamed rice in eco-friendly packaging. Duties included:
 - Taking orders
 - Frying and assembling dishes
@@ -66,7 +73,7 @@ Authentic ramen dishes with toppings like:
 
 ---
 
-## 📽️ Video Snapshot
+## 📽️ HOSPITALITY APARTEMENT JOB
 
 A video of the booth and the business in action:  
 📂 `HOSPITALITY APARTEMENT JOB.mp4` *(not viewable on GitHub preview but stored in repo for download/reference)*
