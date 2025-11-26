@@ -4,12 +4,12 @@ Welcome to my Professional Hospitality and Culinary Experience showcase! This re
 
 ---
 
-## 📅 Business Operation
+## 📅 Operation Duty
 
 - 👩‍🍳 Role: Admin/Cashier, and Cook Helper
 - 📍 Location: Business Centre in Jakarta
 - 🛵 Served online delivery & offline customers
-- 💰 ShopeePay cashback promo & digital payment supported
+- 💰 Online payment ShopeePay/Gopay/Dana/OVO : cashback promo & digital payment
 
 ---
 
@@ -86,7 +86,7 @@ A video of the booth and the business in action:
 - Ramen and Indonesian food preparation
 - Order packing and visual presentation
 - Handling digital payments and promo integration
-- Small business and marketing operations
+- Big business and marketing operations
 
 ---
 
