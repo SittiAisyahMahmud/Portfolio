@@ -93,7 +93,7 @@ A video of the booth and the business in action:
 ## 📞 Contact
 
 Interested in collaborating or hiring? Reach me via email or LinkedIn.  
-- 🔗 GitHub Portfolio: [https://github.com/SittiAisyahMahmud/Portfolio](https://github.com/SittiAisyahMahmud/Portfolio)
+- 🔗 GitHub Portfolio: [https://sittiaisyahmahmud.github.io/Portfolio/](https://sittiaisyahmahmud.github.io/Portfolio/)
 - 🔗 LinkedIn Profile: [https://www.linkedin.com/in/aisyah-mahmud-a5920a234](https://www.linkedin.com/in/aisyah-mahmud-a5920a234/)
 
 Thanks for visiting this portfolio!
