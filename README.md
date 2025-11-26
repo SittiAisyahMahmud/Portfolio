@@ -1,13 +1,13 @@
 # 🍜 Professional Hospitality & Culinary Portfolio
 
-Welcome to my Professional Hospitality and Culinary Experience showcase! This repository presents my journey in hospitality, managing, and selling various food products including Indonesian-style fried chicken and authentic ramen. I also handled cashier duties, packaging, and online delivery orders.
+Welcome to my Professional Hospitality and Culinary Experience showcase! This repository presents my journey in hospitality, admin/managing, and selling various food products including Indonesian-style fried chicken and authentic ramen. I also handled cashier duties, packaging, and online delivery orders.
 
 ---
 
 ## 📅 Business Operation
 
-- 👩‍🍳 Role: Cook, Cashier, and Owner
-- 📍 Location: Small booth business in Indonesia
+- 👩‍🍳 Role: Admin/Cashier, and Cook Helper
+- 📍 Location: Business Centre in Jakarta
 - 🛵 Served online delivery & offline customers
 - 💰 ShopeePay cashback promo & digital payment supported
 
