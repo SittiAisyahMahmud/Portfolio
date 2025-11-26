@@ -1,6 +1,6 @@
-# 🍜 Food Business & Culinary Portfolio
+# 🍜 Professional Hospitality & Culinary Portfolio
 
-Welcome to my food business and culinary experience showcase! This repository presents my journey in preparing, managing, and selling various food products including Indonesian-style fried chicken and authentic ramen. I also handled cashier duties, packaging, and online delivery orders.
+Welcome to my Professional Hospitality and Culinary Experience showcase! This repository presents my journey in hospitality, managing, and selling various food products including Indonesian-style fried chicken and authentic ramen. I also handled cashier duties, packaging, and online delivery orders.
 
 ---
 
